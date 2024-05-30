@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pan de molde",
+        "precio": 1.5,
+        "imagen": "https://example.com/images/pan-de-molde.jpg",
+        "categoria": "Pan"
+    },
+    {
+        "id": 2,
+        "nombre": "Croissant",
+        "precio": 0.9,
+        "imagen": "https://example.com/images/croissant.jpg",
+        "categoria": "Bollería"
+    },
+    {
+        "id": 3,
+        "nombre": "Baguette",
+        "precio": 1.2,
+        "imagen": "https://example.com/images/baguette.jpg",
+        "categoria": "Pan"
+    },
+    {
+        "id": 4,
+        "nombre": "Dona",
+        "precio": 1.0,
+        "imagen": "https://example.com/images/dona.jpg",
+        "categoria": "Repostería"
+    },
+    {
+        "id": 5,
+        "nombre": "Muffin de arándanos",
+        "precio": 1.8,
+        "imagen": "https://example.com/images/muffin-arandanos.jpg",
+        "categoria": "Repostería"
+    },
+    {
+        "id": 6,
+        "nombre": "Pan integral",
+        "precio": 1.7,
+        "imagen": "https://example.com/images/pan-integral.jpg",
+        "categoria": "Pan"
+    },
+    {
+        "id": 7,
+        "nombre": "Empanada de carne",
+        "precio": 2.0,
+        "imagen": "https://example.com/images/empanada-carne.jpg",
+        "categoria": "Bollería"
+    },
+    {
+        "id": 8,
+        "nombre": "Bizcocho",
+        "precio": 3.5,
+        "imagen": "https://example.com/images/bizcocho.jpg",
+        "categoria": "Repostería"
+    },
+    {
+        "id": 9,
+        "nombre": "Rosca de Reyes",
+        "precio": 5.0,
+        "imagen": "https://example.com/images/rosca-de-reyes.jpg",
+        "categoria": "Repostería"
+    },
+    {
+        "id": 10,
+        "nombre": "Tarta de manzana",
+        "precio": 4.5,
+        "imagen": "https://example.com/images/tarta-de-manzana.jpg",
+        "categoria": "Repostería"
+    },
+    {
+        "id": 11,
+        "nombre": "Pan de centeno",
+        "precio": 1.6,
+        "imagen": "https://example.com/images/pan-de-centeno.jpg",
+        "categoria": "Pan"
+    },
+    {
+        "id": 12,
+        "nombre": "Churros",
+        "precio": 2.5,
+        "imagen": "https://example.com/images/churros.jpg",
+        "categoria": "Bollería"
+    },
+    {
+        "id": 13,
+        "nombre": "Tostada francesa",
+        "precio": 2.8,
+        "imagen": "https://example.com/images/tostada-francesa.jpg",
+        "categoria": "Bollería"
+    },
+    {
+        "id": 14,
+        "nombre": "Panettone",
+        "precio": 6.0,
+        "imagen": "https://example.com/images/panettone.jpg",
+        "categoria": "Repostería"
+    },
+    {
+        "id": 15,
+        "nombre": "Bollo suizo",
+        "precio": 1.0,
+        "imagen": "https://example.com/images/bollo-suizo.jpg",
+        "categoria": "Bollería"
+    },
+    {
+        "id": 16,
+        "nombre": "Galletas de chocolate",
+        "precio": 2.0,
+        "imagen": "https://example.com/images/galletas-chocolate.jpg",
+        "categoria": "Repostería"
+    },
+    {
+        "id": 17,
+        "nombre": "Focaccia",
+        "precio": 3.0,
+        "imagen": "https://example.com/images/focaccia.jpg",
+        "categoria": "Pan"
+    },
+    {
+        "id": 18,
+        "nombre": "Napolitana de chocolate",
+        "precio": 1.5,
+        "imagen": "https://example.com/images/napolitana-chocolate.jpg",
+        "categoria": "Bollería"
+    },
+    {
+        "id": 19,
+        "nombre": "Scones",
+        "precio": 2.2,
+        "imagen": "https://example.com/images/scones.jpg",
+        "categoria": "Repostería"
+    },
+    {
+        "id": 20,
+        "nombre": "Tarta de queso",
+        "precio": 4.0,
+        "imagen": "https://example.com/images/tarta-de-queso.jpg",
+        "categoria": "Repostería"
+    }
+]
